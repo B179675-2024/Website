@@ -1,0 +1,37 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Tue  8 Apr 2025 18:27:06
+# Commandline: patmatmotifs
+#    -sequence KFQ38853.1_motseq.fa
+#    -outfile KFQ38853.1_patmotifs.txt
+#    -rformat2 simple
+#    -raccshow2
+#    -full
+#    -auto
+# Report_format: simple
+# Report_file: KFQ38853.1_patmotifs.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFQ38853.1     from: 1   to: 352
+# Accession: 
+# HitCount: 1
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Feature: 1
+Name: KFQ38853.1
+Start: 135
+End: 138
+Length: 4
+Score: 4
+Strand: .
+Motif: AMIDATION
+
+#---------------------------------------
+#---------------------------------------

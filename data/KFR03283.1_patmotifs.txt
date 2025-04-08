@@ -1,0 +1,37 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Tue  8 Apr 2025 18:27:05
+# Commandline: patmatmotifs
+#    -sequence KFR03283.1_motseq.fa
+#    -outfile KFR03283.1_patmotifs.txt
+#    -rformat2 simple
+#    -raccshow2
+#    -full
+#    -auto
+# Report_format: simple
+# Report_file: KFR03283.1_patmotifs.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFR03283.1     from: 1   to: 321
+# Accession: 
+# HitCount: 1
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Feature: 1
+Name: KFR03283.1
+Start: 127
+End: 130
+Length: 4
+Score: 4
+Strand: .
+Motif: AMIDATION
+
+#---------------------------------------
+#---------------------------------------

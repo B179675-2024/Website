@@ -1,0 +1,37 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Tue  8 Apr 2025 18:27:05
+# Commandline: patmatmotifs
+#    -sequence KFZ68785.1_motseq.fa
+#    -outfile KFZ68785.1_patmotifs.txt
+#    -rformat2 simple
+#    -raccshow2
+#    -full
+#    -auto
+# Report_format: simple
+# Report_file: KFZ68785.1_patmotifs.txt
+########################################
+
+#=======================================
+#
+# Sequence: KFZ68785.1     from: 1   to: 299
+# Accession: 
+# HitCount: 1
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Feature: 1
+Name: KFZ68785.1
+Start: 135
+End: 138
+Length: 4
+Score: 4
+Strand: .
+Motif: AMIDATION
+
+#---------------------------------------
+#---------------------------------------

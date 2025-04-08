@@ -1,0 +1,29 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Tue  8 Apr 2025 18:27:04
+# Commandline: patmatmotifs
+#    -sequence OWK54800.1_motseq.fa
+#    -outfile OWK54800.1_patmotifs.txt
+#    -rformat2 simple
+#    -raccshow2
+#    -full
+#    -auto
+# Report_format: simple
+# Report_file: OWK54800.1_patmotifs.txt
+########################################
+
+#=======================================
+#
+# Sequence: OWK54800.1     from: 1   to: 238
+# Accession: 
+# HitCount: 0
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------

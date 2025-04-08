@@ -43,8 +43,7 @@ foreach ($sequences as $seq) {
 //echo "<pre>$fasta</pre>";
 
 //change directory to the data directory for safe code execution and data handling
-chdir('data')
-;
+chdir('data');
 
 // Temporary files
 $seqfile = "seq.fa";

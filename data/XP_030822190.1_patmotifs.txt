@@ -1,0 +1,29 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Tue  8 Apr 2025 18:27:04
+# Commandline: patmatmotifs
+#    -sequence XP_030822190.1_motseq.fa
+#    -outfile XP_030822190.1_patmotifs.txt
+#    -rformat2 simple
+#    -raccshow2
+#    -full
+#    -auto
+# Report_format: simple
+# Report_file: XP_030822190.1_patmotifs.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_030822190.1     from: 1   to: 359
+# Accession: 
+# HitCount: 0
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+
+#---------------------------------------
+#---------------------------------------

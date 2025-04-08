@@ -1,0 +1,37 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Tue  8 Apr 2025 18:27:03
+# Commandline: patmatmotifs
+#    -sequence XP_037266979.1_motseq.fa
+#    -outfile XP_037266979.1_patmotifs.txt
+#    -rformat2 simple
+#    -raccshow2
+#    -full
+#    -auto
+# Report_format: simple
+# Report_file: XP_037266979.1_patmotifs.txt
+########################################
+
+#=======================================
+#
+# Sequence: XP_037266979.1     from: 1   to: 358
+# Accession: 
+# HitCount: 1
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Feature: 1
+Name: XP_037266979.1
+Start: 139
+End: 142
+Length: 4
+Score: 4
+Strand: .
+Motif: AMIDATION
+
+#---------------------------------------
+#---------------------------------------
