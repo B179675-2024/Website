@@ -1,6 +1,6 @@
 ########################################
 # Program: patmatmotifs
-# Rundate: Tue  8 Apr 2025 18:27:05
+# Rundate: Tue  8 Apr 2025 22:51:01
 # Commandline: patmatmotifs
 #    -sequence KFR03283.1_motseq.fa
 #    -outfile KFR03283.1_patmotifs.txt

@@ -1,6 +1,6 @@
 ########################################
 # Program: patmatmotifs
-# Rundate: Tue  8 Apr 2025 18:27:04
+# Rundate: Tue  8 Apr 2025 22:51:00
 # Commandline: patmatmotifs
 #    -sequence PKU41280.1_motseq.fa
 #    -outfile PKU41280.1_patmotifs.txt

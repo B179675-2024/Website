@@ -1,12 +1,17 @@
 <html>
+<title>PSAW Motifs</title>
 <head>
-    <style>
-        table { border-collapse: collapse; margin-top: 20px; }
-        th, td { padding: 10px; border: 1px solid #ccc; }
-        th { background-color: #2c3e50; color: white; }
-    </style>
+<link rel="icon" href="psaw2.png">
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
+<!-- Display Menu -->
+<div class="menu">
+<?php include 'menu.php';?>
+</div>
+<h1><a href="https://prosite.expasy.org/">PROSITE</a> motif searching</h1>
+
 
 <?php
 if (!isset($_POST['proset'])) die("No combination selected.");
@@ -97,6 +102,6 @@ $conn = null;
             <?php endforeach; ?>
         </table>
     <?php endif; ?>
-    <p><a href="motifs.php"> Back</a></p>
+<p><a href="motifs.php"> Back</a></p>
 </body>
 </html>
