@@ -3,6 +3,7 @@
 
 <header>
 <link rel="icon" href="psaw2.png">
+<link rel="stylesheet" href="styles.css">
 </header>
 
 
@@ -14,7 +15,7 @@
 </div>
 
 <!-- Search keywords form -->
-<h2> Which proteins should be fetched from NCBI? </h2>
+<h1> Which proteins should be fetched from <a href="https://www.ncbi.nlm.nih.gov/protein">NCBI</a>?</h1>
   <form method="POST">
     <label>Protein Family:</label><br>
     <input type="text" name="protein_family" placeholder="glucose-6-phosphatase" required><br><br>
@@ -39,7 +40,7 @@ if (isset($_POST['submit'])) {
     include 'sql_connect.php';
 
     // Prepare NCBI esearch query
-    $query = urlencode("$protein_family [Protein Name] AND $taxonomic_group [Organism]");
+    $query = urlencode("{$protein_family}[Protein Name] AND {$taxonomic_group}[Organism]");
     $esearchURL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=protein&term=$query&retmax=10&usehistory=y&api_key=$NCBI_key";
 
     $searchResult = file_get_contents($esearchURL);
@@ -51,7 +52,7 @@ if (isset($_POST['submit'])) {
         exit;
     }
 
-    // Fetch the queried sequences in FASTA format
+    // Fetch the queried sequences in FASTA format (all available from the search thanks to the WebEnv/QueryKey information)
     $efetchURL = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?' .
                  "db=protein&query_key={$queryKey[1]}&WebEnv={$webEnv[1]}&rettype=fasta&retmode=text&api_key=$NCBI_key";
 

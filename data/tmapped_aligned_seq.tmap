@@ -1,0 +1,1747 @@
+########################################
+# Program: tmap
+# Rundate: Wed  9 Apr 2025 00:10:45
+# Commandline: tmap
+#    -sequences aligned_seq.fa
+#    -graph png
+#    -outfile tmapped_aligned_seq.tmap
+#    -auto
+# Report_format: seqtable
+# Report_file: tmapped_aligned_seq.tmap
+########################################
+
+#=======================================
+#
+# Sequence: Consensus     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 sfaadlrnaffvlfpiwfhfs
+    134     154        2 rliwvavigdwlnlvfkwilf
+    217     245        3 qsrTlkywvLwmvLWtGFWAvQvcvclsr
+    258     286        4 vfiaahfphqviagvisGmaVAktFqhv-
+    294     322        5 -rYlgiTfFLfsfalGfYlLLr-lgVdLL
+    345     366        6 fasllrnlgilfglglalnshm
+    385     405        7 gcvaasllvlhlfdafkppsh
+    411     431        8 yvlsfcksaavplatvglipy
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAI6072612.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNTFFVLFPIWFHFC
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSKTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAETFQHVR
+    294     322        5 RRYLGVTTFLFSFALGLYLLLRALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCAAASLLVLHLFDAFRPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_040392851.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNTFFVLFPLWFHFC
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSKTLKYWVLWMALWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAETFQHVR
+    294     322        5 RRYLGVTTFLFSFALGFYLLLRALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCAAASLLVLHLFDAFRPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAJ7396366.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTFRYWVLWTVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHIR
+    294     322        5 GRYTGITLFLFSFTIGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLAVNSHM
+    385     405        7 GCVAASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLTTVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_027751872.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTFGYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHIR
+    294     322        5 GRYTGITLFLFSFTIGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLAVNSHM
+    385     405        7 GCVAASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLTTVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_032566992.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTFGYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVITGVFSGMAVAKTFQHVR
+    294     322        5 HRYTGITLFLFSFTIGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLAVNSHM
+    385     405        7 GCVTASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_027520533.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTFGYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVITGVFSGMAVAKTFQHVR
+    294     322        5 HRYTGITLFLFSFTIGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLAVNSHM
+    385     405        7 GCVAASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_017689608.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTFGYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVITGVFSGMAVAKTFQHVR
+    294     322        5 HRYTGITLFLFSFTIGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLAVNSHM
+    385     405        7 GCVAASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_008922173.2     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTSGYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHVR
+    294     322        5 HRYTGITLFLFSFTIGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLAVNSHM
+    385     405        7 GCVTASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFW81030.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTSGYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHVR
+    294     322        5 HRYTGITLFLFSFTIGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLAVNSHM
+    385     405        7 GCVTASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_027601652.2     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTFGYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHVR
+    294     322        5 HRYTGITLFLFSFTIGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLAVNSHM
+    385     405        7 GCVTASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_027558020.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTFGYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQQVH
+    294     322        5 HRYTGITLFLFSFTIGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGVLFGLGLAVNSHM
+    385     405        7 GCVVASLIILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAJ7421106.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLTYWVLWTVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVFSGIAVAKTFQHVR
+    294     322        5 RRYLGITFFLFSFTLGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLILHIFDAFKPPSH
+    411     431        8 YFLSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAI1230272.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 KSRTLRYWVLWTVLWIGFWAVQVIAGVFS
+    258     286        4 STTVPAALTNAPTLLLAGMAVAKTFQHVR
+    294     322        5 HRYLGITLFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_014740911.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLRYWMLWTVLWIGFWAVQVCVCMSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHVR
+    294     322        5 LRYLGITLFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF4787459.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFN
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLRYWVLWTVLWIGFWAVQVCVCMSR
+    258     286        4 VFIAAHFPHQVIAGVLSGMAVAKTFQHIR
+    294     322        5 NRYLGITLFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGSLFGLGLALNSHM
+    385     405        7 GCIAASLLLLHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_005059732.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFYVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLRYWLLWTVLWIGFWAVQVCVCMSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHIR
+    294     322        5 HRYLGITLFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLTLHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLAAVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_015506695.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTFRYWVLWTVLWIGFWAVQVCVCMSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHVQ
+    294     322        5 QRYLGITVFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_023798483.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTFKYWVLWTVLWIGFWAVQVCVCMSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHVH
+    294     322        5 QRYLGITVFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_005531541.2     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTFRYWVLWTVLWIGFWAVQVCVCMSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHVH
+    294     322        5 QRYLGITVFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_005429668.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSKTLGYWVLWTVLWIGFWAVQVCVCMSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHIR
+    294     322        5 HRYLGITIFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNCHL
+    385     405        7 GCIAASLLILHVFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVGLVPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_030822190.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSKTLGYWVLWTVLWIGFWAVQVCVCMSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHIH
+    294     322        5 HRYLGITIFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNCHL
+    385     405        7 GCIAASLLILHVFDAFKPPSH
+    411     431        8 YALSFCKRAAVPLATVGLVPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_039553177.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLGYWVLWAVLWIGFWAVQVCVCMSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHIR
+    294     322        5 HRYLGITLFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHL
+    385     405        7 GCIAASLLILHVFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_038019160.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLGYWVLWTVLWIGFWAVQVCVCMSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHVR
+    294     322        5 LRYLGITLFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHL
+    385     405        7 GCIAASLLILHVFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: OWK54800.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 ---------------------
+    134     154        2 ---------------------
+    217     245        3 QSRTLRYWVLWTVLWIGFWAVQVCVCMSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHVR
+    294     322        5 HRYLGITFFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHL
+    385     405        7 GCVAASLLILHVFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_010411101.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLRYWVLWTVLWMGFWAVQGCVCVSR
+    258     286        4 IFIAAHFPHQVIAGVFSGMAVAKTFHHVR
+    294     322        5 RRYLGITLFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAVSLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_008638823.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLRYWVLWTVLWMGFWAVQGCVCVSR
+    258     286        4 IFIAAHFPHQVIAGVFSGMAVAKTFHHVR
+    294     322        5 RRYLGITLFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAVSLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFO52652.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLRYWVLWTVLWMGFWAVQGCVCVSR
+    258     286        4 IFIAAHFPHQVIAGVFSGMAVAKTFHHVR
+    294     322        5 RRYLGITLFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAVSLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_031990407.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLRYWVLWTVLWMGFWAVQGCVCVSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFHHVR
+    294     322        5 RRYLGITLFLFSFTLGFYLLLWTFGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAVSLLILHIFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_009079850.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFN
+    134     154        2 RLIWVSVIGDWLNLVFKWILF
+    217     245        3 QSRTLGYWMLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHVQ
+    294     322        5 RRYVGITFFLFSFTLGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCTAVSLLVLHLFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLAAVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFP87454.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SYAADLRNAFFVLFPIWFHFN
+    134     154        2 RLIWVSVIGDWLNLVFKWILF
+    217     245        3 QSRTLGYWMLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVFSGMAVAKTFQHVQ
+    294     322        5 RRYVGITFFLFSFTLGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCTAVSLLVLHLFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLAAVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFQ28029.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNTFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QLRTFKYWVLWMVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 RQYLGITFFLFSFALGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLILHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_008936739.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNTFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QLRTFKYWVLWMVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 RQYLGITFFLFSFALGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLILHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFV67652.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNTFFVFFPIWFHCS
+    134     154        2 RLLWVAVVGDWLNLVCKWILF
+    217     245        3 QLRTLKYWVLWGVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAETFQHVR
+    294     322        5 RRYLGITFFLFSFALGFYLLLRVVGVDLL
+    345     366        6 FASLLRNLGILFGLGLALHSHM
+    385     405        7 GCIISSLLILHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_030364364.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFN
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QLKTLKYWVLWTVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHIR
+    294     322        5 RRYVGITFFLFSFALGFYLLLRAVGVDLL
+    345     366        6 FASLLRNLGILFGLGLALKSHM
+    385     405        7 GCAAASLLILHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KQK79067.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFXSN
+    134     154        2 KLVWVAVIGDWLNLVFKWILF
+    217     245        3 QLKTLKYWVLWTVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVXAGVISGMAVAKTFQHIG
+    294     322        5 RRYVGITFFLFSXALGFYLLLRAVGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCAAASLLILHLFDAFKLPSH
+    411     431        8 YVLSFCXSAAVPLATVGLVPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFP28446.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPVWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QTKTLKYWVLWMVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMVVAKTFQHVQ
+    294     322        5 RRYLGVTFFLFSFALGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLILHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFO72113.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHLS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 GSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIVGVISGVAVAKTFQHVH
+    294     322        5 RWYLGITFFLFSFALGFYLLLRTVGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLILHLFDAFKPPSH
+    411     431        8 YALSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_030321679.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHCS
+    134     154        2 RLIWVAVIGDWLNLIFKWILF
+    217     245        3 QSKTLKYWVLWMVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIVGVISGMAVAKSFQHIH
+    294     322        5 RRYLGVTFFLFSFALGFYLLLRVVNVDLL
+    345     366        6 FASLIRNLGILFGMGLALNSHM
+    385     405        7 GCIVTSLLVLHLFDAFKPPSH
+    411     431        8 YLLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFO97556.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHCS
+    134     154        2 RLIWVAVIGDWLNLIFKWILF
+    217     245        3 QSKTLKYWVLWMVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIVGVISGMAVAKSFQHIH
+    294     322        5 RRYLGVTFFLFSFALGFYLLLRVVNVDLL
+    345     366        6 FASLIRNLGILFGMGLALNSHM
+    385     405        7 GCIVTSLLVLHLFDAFKPPSH
+    411     431        8 YLLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_008503927.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHCS
+    134     154        2 RLIWVAVIGDWLNLIFKWILF
+    217     245        3 QSKTLKYWVLWMVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIVGVISGMAVAKSFQHIH
+    294     322        5 RRYLGVTFFLFSFALGFYLLLRVVNVDLL
+    345     366        6 FASLIRNLGILFGMGLALNSHM
+    385     405        7 GCIVTSLLVLHLFDAFKPPSH
+    411     431        8 YLLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFU87009.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHVS
+    134     154        2 RLIWVAVIGDWLNLIFKWILF
+    217     245        3 QSRTLKYWMLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMVVAKTFQHIH
+    294     322        5 RRYLGITFFLFSFALGFYLLLRAVNVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCITTSLLILHVFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1627266.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1578265.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1584371.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHIH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1604860.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGITFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1642821.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1561075.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1524284.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1473286.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1471003.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1464176.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1464082.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1459431.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1440782.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1432837.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1404242.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1548696.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVATSLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1546409.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVATSLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1488921.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVATSLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1671963.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVATSLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1487788.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVATSLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_009324864.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFW61438.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KAF1663616.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCITASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFM01312.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCITASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_009281191.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 CRYLGVTFFLFSFALGFYLLLLALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCITASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_009943063.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 RSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 RRYLGVTFFLFSFALGFYLLLRALGVDLL
+    345     366        6 LASLLRG---------------
+    385     405        7 GCITASLLILHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFR03283.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 RSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 RRYLGVTFFLFSFALGFYLLLRALGVDLL
+    345     366        6 LASLLR----------------
+    385     405        7 GCITASLLILHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_026720573.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLIFKWILF
+    217     245        3 QSRTLK--VLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 HRYLGVTSFLFSFALGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFKPPSH
+    411     431        8 YFLSFCKSAAVPLATVALIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFV54932.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFILFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QLRTFKYWVLWTVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 RRYLGVTFFLFSFAMGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLILHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFQ16131.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 RRYLGITLFLFSFALGFYLLLRALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLVLHLFDAFRPPSH
+    411     431        8 YVLSFCKSTAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: PKU41280.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QLRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 RRYLGITFFLFSFAMGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLVLHLFDAFRPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_014814680.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 RRYLGITFFLFSFAMGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVTASLLVLHLFDAFRPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_009870532.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNTFFVFFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 RQYLGITFFLFSFAMGFYLLLRVLGVDLL
+    345     366        6 ----------------------
+    385     405        7 ------------FDPSKPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_010583936.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNTFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QLRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 RRYLGITFFLFSFALGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIATSLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVSLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_010295685.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLVWVAVIGDWLNLVFKWILF
+    217     245        3 RSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHIH
+    294     322        5 RQYLGITFFLFSFTLGFYLLLRALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALHSHM
+    385     405        7 GCIAASLLILHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFQ70770.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLVWVAVIGDWLNLVFKWILF
+    217     245        3 RSRTLKYWVLWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHIH
+    294     322        5 RQYLGITFFLFSFTLGFYLLLRALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALHSHM
+    385     405        7 GCIAASLLILHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_009892089.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHLS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 RQYLGITFFLFSFALGFYLLLRALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLILHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLAAVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KGL85810.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHLS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 RQYLGITFFLFSFALGFYLLLRALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCVAASLLILHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLAAVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFP08967.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSKTLKYWVLWTVLWAGFWAIQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHIH
+    294     322        5 RQYLGITFFLFSFALGFYLLLRALGVDLL
+    345     366        6 FASLLRNLGILFGLGLAHNSHM
+    385     405        7 GCVAASLLILHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATAGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_009982315.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHVS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKHWVLWTVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQDIR
+    294     322        5 HRYLGITFFLFSFALGFYLLLRVLGVDLL
+    345     366        6 FASLVRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLVLHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFV16020.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHVS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKHWVLWTVLWMGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQDIR
+    294     322        5 HRYLGITFFLFSFALGFYLLLRVLGVDLL
+    345     366        6 FASLVRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLVLHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_009460192.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFILFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 RQYLGVTFFLFSFALGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLAHNSHM
+    385     405        7 GCIAASLLVLHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFQ94573.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFILFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVH
+    294     322        5 RQYLGVTFFLFSFALGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLAHNSHM
+    385     405        7 GCIAASLLVLHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_040473657.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHLS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHIR
+    294     322        5 RQYLGITFFLFSFALGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLVLHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_037266979.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHLS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHIR
+    294     322        5 RQYLGITFFLFSFALGFYLLLRVLGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLVLHLFDAFKPPSH
+    411     431        8 YILSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFZ68785.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFILFPIWFHFS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWLLRMVLWAGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVITGVISGMAVAKIFQHIR
+    294     322        5 RRYMAITLFLFSFALGFYLLLRALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAAS---------------
+    411     431        8 ---------------------
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_010187293.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHCS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWALWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVVAGVISGMAVAKTFQHIR
+    294     322        5 RQYLGITFFLFSFALGFYLLLRAIGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLVLHLFDAFRPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: KFQ38853.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHCS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYWALWMVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVVAGVISGMAVAKTFQHIR
+    294     322        5 RQYLGITFFLFSFALGFYLLLRAIGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCIAASLLVLHLFDAFRPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: OPJ74548.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNAFFVLFPIWFHVS
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSRTLKYRVLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAKTFQHVR
+    294     322        5 RRYLGITLFLFTFALGFYLLLRALGVDLL
+    345     366        6 FASLLRNLGILFGLGLALNSHM
+    385     405        7 GCAVTSLLVLHLFDAFKPPAH
+    411     431        8 YVLSFCKSAAVPLATAGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_019478895.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 ---------------------
+    134     154        2 ---------------------
+    217     245        3 QSRTLKYWILWIMLWTGFWAIQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAETFQHIH
+    294     322        5 HRYLGITFFLFSFALGFYLLLRVLGVELL
+    345     366        6 FASLLRNLGILFGLGLALSSHM
+    385     405        7 GCAAASLLVLHLFDAFRLPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_031456423.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNTFFVLFPIWFHLC
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSKTLKYWILWIMLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVIAGVISGMAVAETFQHIH
+    294     322        5 RTYLGITFFLFSFALGFYLLLRVLGVELL
+    345     366        6 FASLLRNLGILFGLGLALSSHM
+    385     405        7 GCVAASLLVLHLFDAFRLPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_021233644.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNTFFVLFPIWFHLH
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 QSKTLKYWILWTVLWTGFWAVQICVCLSR
+    258     286        4 IFIAAHFPHQVIAGVISGMAVAETFQHIH
+    294     322        5 RRYLGITFFLFSFALGFYLLLRMLGVELL
+    345     366        6 FASLLRNLGILFGLGLALSSHM
+    385     405        7 GCAAASLLVLHLFDAFRPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_015741500.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNTFFVLFPIWFHLC
+    134     154        2 RLIWVAVIGDWLNLVFKWILF
+    217     245        3 KSKTLKYWILWAVLWMGFWAVQVCVCLSR
+    258     286        4 IFIAAHFPHQVIAGVISGMAVAETFQHVH
+    294     322        5 RRYLGVTFFLFSFALGFYLLLRMLGVELL
+    345     366        6 FASLLRNLGILFGLGLALSSHM
+    385     405        7 GCAAASLLVLHLFDAFKPPSH
+    411     431        8 YVLSFCKSAAVPLATVGLIPY
+
+#---------------------------------------
+#---------------------------------------
+#=======================================
+#
+# Sequence: XP_025900367.1     from: 1   to: 499
+# HitCount: 8
+#=======================================
+
+  Start     End TransMem Sequence
+    108     128        1 SFAADLRNTFFVLFPLWFHFC
+    134     154        2 RLLWVAVIGDWLNLVFKWLLF
+    217     245        3 QAKTLKYWLLWTVLWTGFWAVQVCVCLSR
+    258     286        4 VFIAAHFPHQVVAGVISGMVVAESFQHVR
+    294     322        5 RRYLAVTAFLLAFALGLYALLRLLGVDLL
+    345     366        6 FASLLRNLG-------------
+    385     405        7 ACAAASLLVLHLFDAFKPPAH
+    411     431        8 YLLSFCKSAAVPLATVSLVPC
+
+#---------------------------------------
+#---------------------------------------
+
+#---------------------------------------
+# Total_sequences: 95
+# Total_length: 33922
+# Reported_sequences: 96
+# Reported_hitcount: 768
+#---------------------------------------

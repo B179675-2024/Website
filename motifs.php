@@ -1,8 +1,9 @@
 <html>
-<title>PSAW</title>
+<title>PSAW Motifs</title>
 
 <header>
 <link rel="icon" href="psaw2.png">
+<link rel="stylesheet" href="styles.css">
 </header>
 <body>
 
@@ -10,8 +11,7 @@
 <div class="menu">
 <?php include 'menu.php';?>
 </div>
-
-<h1>PROSITE motif searching</h1>
+<h1><a href="https://prosite.expasy.org/">PROSITE</a> motif searching</h1>
 
 <?php
 include 'sql_connect.php'; //Create a mySQL connection to the database ($conn)

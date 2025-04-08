@@ -3,6 +3,7 @@
 
 <header>
 <link rel="icon" href="psaw2.png">
+<link rel="stylesheet" href="styles.css">
 </header>
 <body>
 
@@ -12,9 +13,6 @@
 </div>
 
 
-<?php
-phpinfo();
-?>
 
 </body>
 </html>
