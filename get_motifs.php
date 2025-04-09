@@ -81,7 +81,7 @@ foreach ($sequences as $row) {
 $conn = null;
 ?>
 
-<h2>PROSITE Motif Results for <?= htmlspecialchars($protein_family) ?> - <?= htmlspecialchars($taxonomic_group) ?></h2>
+<h2><u>PROSITE Motif Results for <?= htmlspecialchars($protein_family) ?> - <?= htmlspecialchars($taxonomic_group) ?></u></h2>
     <?php if (empty($motifs)): ?>
         <p>No motifs found.</p>
     <?php else: ?>

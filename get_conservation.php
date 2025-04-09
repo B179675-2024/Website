@@ -81,7 +81,7 @@ if (!file_exists($alignedfile) || filesize($alignedfile) === 0) {
 }
 
 // Run EMBOSS plotcon, saving a png output (conservation plot)
-shell_exec("plotcon -winsize 100 -sequence $alignedfile -graph png -goutfile $plotfile -auto");
+shell_exec("plotcon -winsize 10 -scorefile EBLOSUM62 -sequence $alignedfile -graph png -goutfile $plotfile -auto");
 ?>
 
 
@@ -102,6 +102,7 @@ if (file_exists($alignedfile)) {
     ?></pre> <!-- Output MSA here -->
 </div>
 
+<!-- Plot -->
 <?php
 $plotfile="conservation.1.png";
 echo "<h2>Conservation Plot</h2>";

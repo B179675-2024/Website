@@ -1,6 +1,6 @@
 ########################################
 # Program: patmatmotifs
-# Rundate: Tue  8 Apr 2025 22:51:00
+# Rundate: Wed  9 Apr 2025 13:10:01
 # Commandline: patmatmotifs
 #    -sequence XP_010583936.1_motseq.fa
 #    -outfile XP_010583936.1_patmotifs.txt

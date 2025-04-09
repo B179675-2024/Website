@@ -1,6 +1,6 @@
 ########################################
 # Program: patmatmotifs
-# Rundate: Tue  8 Apr 2025 22:51:00
+# Rundate: Wed  9 Apr 2025 13:10:02
 # Commandline: patmatmotifs
 #    -sequence KGL85810.1_motseq.fa
 #    -outfile KGL85810.1_patmotifs.txt
